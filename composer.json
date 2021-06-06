@@ -1,9 +1,9 @@
 {
-    "name": "pagevamp/ph-intern-task",
+    "name": "vinodwick/fortunacreatives_intern_test",
     "authors": [
         {
-            "name": "Pagevamp",
-            "email": "tech@pagevamp.com"
+            "name": "Vinod Wickramanayake",
+            "email": "vinod@fortunaglobal.com"
         }
     ],
     "autoload" : {
