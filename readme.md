@@ -1,3 +1,5 @@
+![](http://fortunacreatives.com/wp-content/uploads/2021/03/fc-logo.png)
+
 ## Fortunacreatives PHP Intern Task
 
 We are looking for interns that can grow with us. We are strong believers of Object Oriented Programming.
@@ -14,7 +16,7 @@ We have added code required to make a CRUD(Create, Read, Update and Delete) appl
 * Create a database named `fortunacreatives_task`
 * Change the credentials of your database in `Classes/DB.php` to connect to mysql
 * Create a table `users` with columns `id`, `first_name`, `last_name` and `email`.
-* Either create a virtual host or go to `localhost/php-intern-task` in your browser
+* Either create a virtual host or go to `localhost/fortunacreatives_intern_test` in your browser
 
 ### Tasks
 
