@@ -40,8 +40,8 @@ $users = (new Classes\User())->getAll();
                     <td><?php echo $user->getFirstName(); ?></td>
                     <td><?php echo $user->getLastName(); ?></td>
                     <td><?php echo $user->getEmail(); ?></td>
-                    <td><a href="edit.php?id=<?php echo $user->getId(); ?>"><button class="btn btn-success">Edit</button></a></td>
-                    <td><a href="delete.php?id=<?php echo $user->getId(); ?>"><button class="btn btn-danger">Delete</button></a></td>
+                    <td></td>
+                    <td></td>
                 </tr>
             <?php endforeach; ?>
         </table>
