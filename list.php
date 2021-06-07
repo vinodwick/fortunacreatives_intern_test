@@ -18,12 +18,7 @@ $users = (new Classes\User())->getAll();
     </style>
 </head>
 <body>
-<?php 
-    session_start();
-    if(isset($_GET['message'])){
-        echo $_GET['message'];
-    }
-    ?>
+
 <div class="container">
     <div class="row">
         <h1>User List</h1>
